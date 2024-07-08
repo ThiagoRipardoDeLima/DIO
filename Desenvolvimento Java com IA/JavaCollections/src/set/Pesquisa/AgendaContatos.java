@@ -3,8 +3,6 @@ package set.Pesquisa;
 import java.util.HashSet;
 import java.util.Set;
 
-import set.OperacaoBasica.ConjutoConvidado;
-
 public class AgendaContatos {
 
     private Set<Contato> contatos;

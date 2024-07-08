@@ -4,8 +4,6 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-import set.Pesquisa.AgendaContatos;
-
 public class CadastroProdutos {
 
     private Set<Produto> produtos;
