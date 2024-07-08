@@ -41,12 +41,9 @@ public class Pessoa implements Comparable<Pessoa> {
 }
 
 
-public class ComparadorPorAltura implements Comparator<Pessoa> {
-
+class ComparadorPorAltura implements Comparator<Pessoa> {
     @Override
     public int compare(Pessoa o1, Pessoa o2) {
         return Double.compare(o1.getAltura(), o2.getAltura());
-    }
-
-    
+    }    
 }
