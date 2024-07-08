@@ -1,5 +1,4 @@
 package set.OperacaoBasica;
-import java.util.Objects;
 
 public class Convidado {
 
